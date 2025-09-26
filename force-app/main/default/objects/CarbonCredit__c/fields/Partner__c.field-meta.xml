@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Partner__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <description>Partner organization receiving the credit</description>
+    <inlineHelpText>Select the partner associated with this credit</inlineHelpText>
+    <label>Partner</label>
+    <referenceTo>CarbonCredit__c</referenceTo>
+    <relationshipLabel>Carbon Credits</relationshipLabel>
+    <relationshipName>CarbonCredits_Partner</relationshipName>
+    <required>false</required>
+    <securityClassification>Internal</securityClassification>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

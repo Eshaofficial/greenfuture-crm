@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <fullName>DateRecorded__c</fullName>
+    <type>Date</type>
+    <inlineHelpText>The date this credit was recorded</inlineHelpText>
+    <required>true</required>
+    <description>The date this credit was recorded</description>
+    <label>Date Recorded</label>
+    <securityClassification>Internal</securityClassification>
+</CustomField>

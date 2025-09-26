@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CreditValue__c</fullName>
+    <description>Unique identifier for each carbon credit issued.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>This number is automatically assigned when a new carbon credit record is created.</inlineHelpText>
+    <label>Credit Value</label>
+    <securityClassification>Internal</securityClassification>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>AutoNumber</type>
+</CustomField>
