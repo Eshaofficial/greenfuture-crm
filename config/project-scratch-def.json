@@ -1,0 +1,23 @@
+{
+  "orgName": "GreenFuture Project",
+  "edition": "Developer",
+  "features": [
+    "Communities",
+    "ServiceCloud",
+    "AuthorApex",
+    "MultiCurrency",
+    "LightningServiceConsole"
+  ],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    }
+  }
+}
+
+
+
+

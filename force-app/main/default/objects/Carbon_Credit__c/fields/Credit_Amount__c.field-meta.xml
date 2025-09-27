@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <fullName>Credit_Amount__c</fullName>
+    <type>Number</type>
+    <precision>18</precision>
+    <scale>0</scale>
+    <inlineHelpText>optional</inlineHelpText>
+    <required>true</required>
+    <unique>true</unique>
+    <externalId>true</externalId>
+    <description>optional</description>
+    <label>Credit Amount</label>
+    <securityClassification>Public</securityClassification>
+</CustomField>

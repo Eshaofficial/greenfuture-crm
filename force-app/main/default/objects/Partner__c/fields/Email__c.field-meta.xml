@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Email__c</fullName>
+    <description>Stores the partner’s primary email address for communication and notifications.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enter a valid email address for the partner. This will be used for sending updates, reports, and alerts.</inlineHelpText>
+    <label>Email</label>
+    <required>true</required>
+    <securityClassification>Public</securityClassification>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Email</type>
+    <unique>false</unique>
+</CustomField>
