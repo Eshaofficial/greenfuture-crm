@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <fullName>Date_Recorded__c</fullName>
+    <type>Date</type>
+    <inlineHelpText>optional</inlineHelpText>
+    <required>true</required>
+    <description>The date when the carbon credit was created or recorded in the system.</description>
+    <label>Date Recorded</label>
+    <securityClassification>Public</securityClassification>
+</CustomField>
