@@ -37,7 +37,7 @@ This system provides end-to-end visibility across **projects**, **partners**, an
 ## 🧠 **Problem Statement**
 Organizations aiming for **Net Zero** struggle with fragmented tools, manual compliance tracking, and non-transparent carbon credit management.
 
-### ❌ Challenges:
+###   Challenges:
 - Disconnected project & partner tracking  
 - No automation in credit lifecycle  
 - Inefficient approval & audit processes  
